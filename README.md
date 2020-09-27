@@ -1,8 +1,13 @@
 # TERmux
+
 在Termux里安装Python
+
 apt-get update
+
 apt-get install python
+
 apt-get install pip
+
 apt-get install vim
 
 termux-setup-storage
